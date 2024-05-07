@@ -1,0 +1,59 @@
+[
+    {
+        "Clave": "Administrador",
+        "Personas": [
+            {
+                "Identificacion": "10",
+                "Nombre": "",
+                "Apellido": "",
+                "Edad": "",
+                "Usuario": "1",
+                "Contrase\u00f1a": "1"
+            }
+        ]
+    },
+    {
+        "Clave": "Usuarios",
+        "Personas": [
+            {
+                "Identificacion": "Jerxon",
+                "Nombre": "942",
+                "Edad": "20",
+                "Categoria": "Nuevo usuario",
+                "Direccion": "Cll",
+                "Telefono": "232412",
+                "Plan": "PlanFuerte"
+            },
+            {
+                "Identificacion": "Maria",
+                "Nombre": "084232312",
+                "Edad": "23",
+                "Categoria": "Nuevo usuario",
+                "Direccion": "bajo el puente",
+                "Telefono": "23241",
+                "Plan": "None"
+            },
+            {
+                "Identificacion": "121241243",
+                "Nombre": "Fernanda",
+                "Edad": "18",
+                "Categoria": "Nuevo usuario",
+                "Direccion": "fer",
+                "Telefono": "12412",
+                "Plan": "None"
+            }
+        ]
+    },
+    {
+        "Clave": "Planes",
+        "Personas": [
+            {
+                "Codigo": "90",
+                "Nombre": "PlanFuerte",
+                "Duracion": "15 Dias",
+                "Precio": "7023",
+                "Clientes": 1
+            }
+        ]
+    }
+]
