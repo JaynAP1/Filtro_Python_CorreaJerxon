@@ -10,7 +10,9 @@ This Json file containt the information that needed the program to correct funci
 ## Use 
 For use the program the first step is dowload Visual Studio Code then in the second step dowload this repository and then open repository from VSC and launch the file called "Main.py"
 
-
+## Languages
+- Python
+  
 ## Development by
 
 This repository development by Jerxon Correa Campuslands Student
